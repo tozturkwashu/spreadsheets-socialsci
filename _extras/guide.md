@@ -27,9 +27,8 @@ some of it can be prevented with good strategies for data collection up front.
 very manual and also not reproducible. That's why we're teaching SQL, R, Python!
 * Now let's talk about spreadsheets, and when we say spreadsheets, we mean any program that
 does spreadsheets like Excel or LibreOffice. Most learners are probably using Excel.
-* Ask the audience any things they've accidentally done in spreadsheets. Talk about an example of your own, like that you accidentally sorted only a single column and not the rest
-of the data in the spreadsheet. What are the pain points!?
-* As people answer highlight some of these issues with spreadsheets
+* Ask the audience any things they've accidentally done in spreadsheets. Talk about an example of your own, like that you accidentally sorted only a single column and not the rest of the data in the spreadsheet. What are the pain points!?
+* As people answer, highlight some of these issues with spreadsheets.
 
 #### [Formatting data](../01-format-data/)
 
